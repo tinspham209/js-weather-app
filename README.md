@@ -2,4 +2,4 @@ A simple `JS weather app` that displays weather information from the OpenWeather
 
 `API` : https://api.openweathermap.org/data/2.5/
 
-https://i.imgur.com/IbUhYtv.png
+<img src="https://i.imgur.com/IbUhYtv.png" />
